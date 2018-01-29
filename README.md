@@ -12,3 +12,5 @@ To use in a development environment, simply `npm i` and `npm start`
 ###
 To see in a demp environment visit [this page](https://expo.io/@maritzuhcom/dog-profiles) for full instructions,
 or install [expo from here](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en) on your android device, or [from here](https://itunes.apple.com/us/app/expo-client/id982107779?mt=8) in ios, then  and scan this QR code. Thanks!
+
+![](https://lh3.googleusercontent.com/0FXWOYZUOIpHTTFqAEgCTluThGQgeG-AuWwIXl4B3lXOKvHAxpBr6ip15LaasCux6EEvn51AIzqLR9rXvrdM=w2880-h1606)
